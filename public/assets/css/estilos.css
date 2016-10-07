@@ -1,0 +1,21 @@
+.colorUser{
+    display: block;
+    float: left;
+    margin: 0px 5px 0px 0px;
+    height: 1em;
+    width: 1em;
+    border: 1px solid black;
+    /*border-radius: 50%;*/
+}
+.btn-usuarios{
+    width: 100px;
+    /*margin: 1px;*/
+}
+.btn-productos{
+    width: 100px;
+    margin: 1px;
+    display: inline;
+}
+.navbar{
+    border-radius: 0;
+}
